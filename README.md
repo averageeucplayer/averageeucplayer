@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**averageeucplayer/averageeucplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lost Metrics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|  |  |  |
+| --- | --- | --- |
+| [Core](https://github.com/averageeucplayer/lost-metrics-core)  | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-core/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-core) | ![CI](https://github.com/averageeucplayer/lost-metrics-core/actions/workflows/ci.yml/badge.svg) |
+| [Data](https://github.com/averageeucplayer/lost-metrics-data)  | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-data/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-data) | ![CI](https://github.com/averageeucplayer/lost-metrics-data/actions/workflows/ci.yml/badge.svg) |
+| [Store](https://github.com/averageeucplayer/lost-metrics-store)  | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-store/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-store) | ![CI](https://github.com/averageeucplayer/lost-metrics-store/actions/workflows/ci.yml/badge.svg) |
+| [Processor](https://github.com/averageeucplayer/lost-metrics-processor) | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-processor/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-processor) | ![CI](https://github.com/averageeucplayer/lost-metrics-processor/actions/workflows/ci.yml/badge.svg) |
+| [Misc](https://github.com/averageeucplayer/lost-metrics-misc) | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-misc/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-misc) | ![CI](https://github.com/averageeucplayer/lost-metrics-misc/actions/workflows/ci.yml/badge.svg) |
+| [Sniffer](https://github.com/averageeucplayer/lost-metrics-sniffer)  | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-sniffer/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-sniffer) | ![CI](https://github.com/averageeucplayer/lost-metrics-sniffer/actions/workflows/ci.yml/badge.svg) |
+| [Console](https://github.com/averageeucplayer/lost-metrics-console)  | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-console/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-console) | ![CI](https://github.com/averageeucplayer/lost-metrics-console/actions/workflows/ci.yml/badge.svg) |
+| [App](https://github.com/averageeucplayer/lost-metrics-app)  | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-app/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-app) | ![CI](https://github.com/averageeucplayer/lost-metrics-app/actions/workflows/ci.yml/badge.svg) |
+| [Simulator](https://github.com/averageeucplayer/lost-metrics-simulator)  | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-simulator/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-simulator) | ![CI](https://github.com/averageeucplayer/lost-metrics-simulator/actions/workflows/ci.yml/badge.svg) |
+| [Bot](https://github.com/averageeucplayer/lost-metrics-bot)  | [![codecov](https://codecov.io/gh/averageeucplayer/lost-metrics-bot/graph/badge.svg?token=HHRGYYUNM2)](https://codecov.io/gh/averageeucplayer/lost-metrics-bot) | ![CI](https://github.com/averageeucplayer/lost-metrics-bot/actions/workflows/ci.yml/badge.svg) |
